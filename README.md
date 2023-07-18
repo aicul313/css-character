@@ -1,2 +1,3 @@
-# css-character
-CSS - Hamding Character
+# CSS - CHARACTER
+
+* CSS로 만든 현지 햄딩 캐릭터
